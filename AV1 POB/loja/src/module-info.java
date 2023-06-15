@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Faeterj
+ *
+ */
+module loja {
+}
